@@ -6,5 +6,12 @@
     margin-top: -285px;
 }
 
+.custom .button{
+    position: absolute;
+    width:62px;
+    height:62px;
+    background: url(https://gist.githubusercontent.com/ryanjrman/f3d743156edef4b0fee001e84ce2c52b/raw/c8b5be205cbab12c0a385a827004d0db763e6201/abxyViral.svg);
+}
+
 /* Link that should work: http://mrmcpowned.com/gamepad?p=1&css=https://gist.githubusercontent.com/ryanjrman/9e0f1bc2f8f0a708e44aff41f936cb14/raw/7b4e600f4d87bca1ef245cdc9e686ac0e46ee034/ViralControllerSkin.css
 */
