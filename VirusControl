@@ -1,0 +1,10 @@
+.controller.custom{
+    background: url(https://gist.githubusercontent.com/ryanjrman/605d3baeadaba4b7905d7b721722aedc/raw/92af9caf86be7d2221cf2fe9870086d549428dfb/baseViral.svg);
+    height: 630px;
+    width: 750px;
+    margin-left: -375px;
+    margin-top: -285px;
+}
+
+/* Link that should work: http://mrmcpowned.com/gamepad?p=1&css=https://gist.githubusercontent.com/ryanjrman/9e0f1bc2f8f0a708e44aff41f936cb14/raw/7b4e600f4d87bca1ef245cdc9e686ac0e46ee034/ViralControllerSkin.css
+*/
